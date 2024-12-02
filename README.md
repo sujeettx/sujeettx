@@ -1,3 +1,5 @@
+Certainly, I can update the README.md to include more programming languages like C, C++, and Python. Here's the updated version:
+
 # Hi there! I'm Sujeet Kushwaha 👋
 
 ## 🚀 About Me
@@ -16,6 +18,9 @@ Passionate Full Stack Developer with hands-on experience in building dynamic and
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Technologies & Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -72,3 +77,5 @@ I turn coffee into code! ☕💻
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sujeettx&color=blueviolet)
+
+I've added the badges for C, C++, and Python programming languages to the "Languages" section of the README.md. This should give a more comprehensive overview of your technical skills and expertise. Let me know if you have any other suggestions or changes you'd like me to make.
