@@ -46,18 +46,6 @@ Passionate Full Stack Developer with hands-on experience in building dynamic and
 - Developed RESTful APIs using Node.js and Express.js
 - Created responsive interfaces using React.js
 
-## 🌱 Notable Projects
-
-### Real-Time Chat Application
-- Designed using MERN stack
-- Implemented user authentication and messaging features
-- Created a responsive, interactive chat interface with real-time messaging
-
-### Personal Portfolio Website
-- Built with React and Material-UI
-- Implemented responsive design
-- Showcased projects and skills with email integration
-
 ## 📚 Certifications
 - Web Development Certification, Internshala (Sep 2022 - Dec 2022)
 
