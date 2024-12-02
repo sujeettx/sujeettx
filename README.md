@@ -1,4 +1,4 @@
-Certainly, I can update the README.md to include more programming languages like C, C++, and Python. Here's the updated version:
+
 
 # Hi there! I'm Sujeet Kushwaha 👋
 
@@ -77,5 +77,3 @@ I turn coffee into code! ☕💻
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=sujeettx&color=blueviolet)
-
-I've added the badges for C, C++, and Python programming languages to the "Languages" section of the README.md. This should give a more comprehensive overview of your technical skills and expertise. Let me know if you have any other suggestions or changes you'd like me to make.
